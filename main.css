@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+body {
+  font-family: 'Inconsolata', monospace;
+  font-size: 40px;
+}
+section {
+  height: 3em;
+  max-width: 100%;
+  text-align: center;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
