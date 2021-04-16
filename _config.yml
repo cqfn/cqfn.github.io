@@ -1,0 +1,33 @@
+title: cqfn.org
+email: yegor256@gmail.com
+description: >
+  Code Quality Foundation
+baseurl: ""
+url: "https://www.cqfn.org"
+markdown: kramdown
+author:
+  name: "Yegor Bugayenko"
+  email: yegor256@gmail.com
+encoding: utf-8
+timezone: Europe/Moscow
+permalink: :year-:month-:day-:title.html
+exclude:
+  - README.md
+  - Gemfile.lock
+  - Gemfile
+  - LICENSE.txt
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+feed:
+  title: www.cqfn.org
+  subtitle: Code Quality Foundation
+  path: rss.xml
+
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false

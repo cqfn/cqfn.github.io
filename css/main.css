@@ -1,10 +1,25 @@
+---
+---
+
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
 body {
   font-family: 'Inconsolata', monospace;
-  font-size: 22px;
   padding: 0;
 }
+
 section {
+  width: 36em;
+}
+
+article {
+  border: 0;
+  line-height: 1.2em;
+}
+
+.front {
+  font-size: 1.2em;
+  line-height: 1.4em;
   height: 12em;
   max-width: 100%;
   text-align: center;

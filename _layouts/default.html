@@ -1,0 +1,24 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>{{ page.title }}</title>
+    <meta name="keywords" content="code quality"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="shortcut icon" href="/logo.png"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/yegor256/tacit@gh-pages/tacit-css.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/yegor256/drops@gh-pages/drops.min.css"/>
+    <link href='/css/main.css?19' rel='stylesheet'/>
+    <meta property="og:description" content="{{ page.description | xml_escape }}" />
+  </head>
+  <body>
+    <section>
+      <article>
+        {{ content }}
+      </article>
+    </section>
+  </body>
+</html>
