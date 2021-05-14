@@ -7,6 +7,17 @@ permalink: /radar.html
 
 [/home](/)
 
+## [Kickstarting AI for Code: Introducing IBM’s Project CodeNet](https://research.ibm.com/blog/codenet-ai-for-code)
+12-May-2021:
+Declared that [the collection](https://developer.ibm.com/technologies/artificial-intelligence/data/project-codenet/)
+includes 14 million code examples that solve 4053 typical programming problems.
+This is 8 GB of archived data.
+We presume that the problem of improving the quality of source codes will be constantly and highly relevant.
+Also we believe that the active introduction of machine learning technologies in the such problematic testifies
+to the successful results of such research, and consequently, will lead to a fast increase in the share of
+artificial intelligence in the source codes analysis compared to static methods.
+
+
 ## [QEMU version 6.0.0 released](https://www.bloomberg.com/news/articles/2021-04-28/google-is-saving-over-1-billion-a-year-by-working-from-home)
 
 30-Apr-2021:
