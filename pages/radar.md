@@ -18,7 +18,7 @@ to the successful results of such research, and consequently, will lead to a fas
 artificial intelligence in the source codes analysis compared to static methods.
 
 
-## [QEMU version 6.0.0 released](https://www.bloomberg.com/news/articles/2021-04-28/google-is-saving-over-1-billion-a-year-by-working-from-home)
+## [QEMU version 6.0.0 released](https://www.qemu.org/2021/04/30/qemu-6-0-0/)
 
 30-Apr-2021:
 The undoubted advantage of QEMU is that it allows emulating any architecture on any type of machine
