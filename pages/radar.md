@@ -7,6 +7,10 @@ permalink: /radar.html
 
 [/home](/)
 
+## [First public working draft from W3C: WebGPU and WebGPU shading language](https://www.w3.org/blog/news/archives/9059)
+18-May-2021:
+6 more years ago, the HTML5 standard was released, but even before the release, the new technology significantly changed the world of web (and non-web) programming. "[HTML5 Leads a Web Revolution](https://dl.acm.org/doi/pdf/10.1145/2209249.2209256)", - such was articles headers. Indeed, many customary applications realized using this now. Also, HTML5 can be used not only for the web: for example, the popular IDE Visual Studio Code is based on the [Monaco editor](https://microsoft.github.io/monaco-editor/) which is implemented using TypeScript and renders the content on HTML5 canvas. So, now the [GPU on the Web Community Group](https://www.w3.org/community/gpu/) is taking the next serious step, namely, the specification of the hardware accelerated 3d graphical API. We presume that after the implementation of this standard and its support by most modern browsers, the development of 3d applications (mostly games) will be significantly shifted to the web, as it will be a cross-platform and fast-working solution. As a result, more efforts should be made to develop tools to improve the quality of JavaScript code as a basic language for web applications.
+
 ## [Kickstarting AI for Code: Introducing IBM’s Project CodeNet](https://research.ibm.com/blog/codenet-ai-for-code)
 
 12-May-2021:
