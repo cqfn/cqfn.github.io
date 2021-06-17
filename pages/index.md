@@ -12,4 +12,6 @@ Code Quality Foundation
 [GitHub](https://github.com/cqfn)
 [YouTube](https://www.youtube.com/channel/UCct-wtA342lg2Wm9OmzkE8w)
 [Radar](/radar.html)
+<br/>
+[We are hiring!](/jobs.html)
 {:.front}
