@@ -15,8 +15,8 @@ team, most of which are the area of code quality:
     or
     [Polystat](https://github.com/polystat/polystat).
   * Kotlin Dev in [diKTat](https://github.com/cqfn/diKTat) or [Save](https://github.com/cqfn/save).
-  * ML expert in [Aibolit](https://github.com/cqfn/aibolit) or [Veniq](https://github.com/cqfn/veniq).
-  * Go expert in [DeGitX](https://github.com/cqfn/degitx).
+  * ML+Python expert in [Aibolit](https://github.com/cqfn/aibolit) or [Veniq](https://github.com/cqfn/veniq).
+  * Go Dev in [DeGitX](https://github.com/cqfn/degitx).
 
 We expect you:
 
