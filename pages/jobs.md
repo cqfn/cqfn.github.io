@@ -56,4 +56,4 @@ non-for-profit activities;
 public speaking experience;
 Twitter followers.
 
-Email us to [jobs@cqfn.org](mailto:jobs@cqfn.org).
+Apply to [jobs@cqfn.org](mailto:jobs@cqfn.org) (we reply to _all_ emails).
