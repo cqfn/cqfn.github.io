@@ -8,7 +8,7 @@ permalink: /jobs.html
 [/home](/)
 
 We have a few open positions in our
-team, most of which are the area of code quality:
+team, most of which are in the area of code quality:
 
   * Java Dev in [Artipie](https://www.artipie.org), 
     [EOLANG](https://github.com/cqfn/eo),
@@ -17,6 +17,7 @@ team, most of which are the area of code quality:
   * Kotlin Dev in [diKTat](https://github.com/cqfn/diKTat) or [Save](https://github.com/cqfn/save).
   * ML+Python expert in [Aibolit](https://github.com/cqfn/aibolit) or [Veniq](https://github.com/cqfn/veniq).
   * Go Dev in [DeGitX](https://github.com/cqfn/degitx).
+  * C++ Dev in a stealth-mode project.
 
 We expect you:
 
