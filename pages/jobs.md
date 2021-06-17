@@ -21,7 +21,7 @@ team, most of which are in the area of code quality:
 
 We expect you:
 
-  * To be a hands-on Java programmer
+  * To be a hands-on programmer
   * To have a PhD (or MSc) degree in computer science
   * To demonstrate us your own _clean_ code
   * To be an active open source contributor/author
