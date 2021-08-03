@@ -40,7 +40,7 @@ until the issue is closed (no matter why), the task
 is not done and will not be paid.
 
 Once the issue is closed, email us the full URL of the issue
-and we will release the payment in SolarStaff.
+and we will release the payment in Solar-Staff.
 
 At any moment of time you can request funds withdrawal from
 Solar-Staff: 1.5% will be deducted from your withdrawal amount
