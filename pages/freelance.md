@@ -27,17 +27,20 @@ Create an account at [Solar-Staff](https://solar-staff.com/)
 and provide necessary personal details: passport copy, address, phone number,
 bank details.
 
-Get a task from us in GitHub: you will be assigned to an issue
-and there will be a comment with a fixed budget in hours.
+Get a task from us in GitHub: you will be assigned to an issue.
+
+You will also get a task in Solar-Staff, 
+where a fixed budget in RUB will be assigned.
+We will use
+the current USD-to-RUB [exchange rate](https://www.cbr.ru/eng/currency_base/daily/)
+of the Bank of Russia.
 
 Complete the task and make sure the issue is closed:
 until the issue is closed (no matter why), the task 
 is not done and will not be paid.
 
 Once the issue is closed, email us the full URL of the issue
-and we will release the payment in SolarStaff in RUB; we will use
-the current USD-to-RUB [exchange rate](https://www.cbr.ru/eng/currency_base/daily/)
-of the Bank of Russia.
+and we will release the payment in SolarStaff.
 
 At any moment of time you can request funds withdrawal from
 Solar-Staff: 1.5% will be deducted from your withdrawal amount
