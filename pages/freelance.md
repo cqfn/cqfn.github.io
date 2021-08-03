@@ -45,5 +45,5 @@ and we will release the payment in Solar-Staff.
 At any moment of time you can request funds withdrawal from
 Solar-Staff: 1.5% will be deducted from your withdrawal amount
 and the money will be sent to you either in USD, EUR, or RUB, using
-the exchange rate of the Bank of Russia. If you withdraw less than $100,
-there will be a $40 fee deducted.
+the exchange rate of the Bank of Russia. If you withdraw less than $50,
+there will be an extra $2-3 fee deducted.
