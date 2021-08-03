@@ -36,7 +36,7 @@ the current USD-to-RUB [exchange rate](https://www.cbr.ru/eng/currency_base/dail
 of the Bank of Russia.
 
 Complete the task and make sure the issue is closed:
-until the issue is closed (no matter why), the task 
+if the issue is not closed (no matter why), the task 
 is not done and will not be paid.
 
 Once the issue is closed, email us the full URL of the issue
