@@ -7,6 +7,9 @@ permalink: /radar.html
 
 [/home](/)
 
+## [GitHub’s Engineering Team has moved to Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+Improving software quality (this is what we are aiming for at the Code Quality Foundation) is achieved, among other things, by using various tools such as continuous integration, code checkers, automatic testing utilities, and so on. Configuring and supporting such tools for large projects can obviously take significant resources, including money. What is only worth buying and maintenance servers! The use of cloud technologies, where all the necessary tools are already configured and provided to developers (even directly from an IDE) - an obvious path of least resistance for the project manager. Therefore, we need to focus on developing tools that could work with cloud technologies, such as plugins to find and fix defects in the source code.
+
 ## [GitHub Previews Copilot, an OpenAI-Powered Coding Assistant](https://www.infoq.com/news/2021/07/github-copilot-pair-programmming/)
 07-July-2021: Another tool that uses machine learning to speed up development and improve code quality. Such tools are now being implemented more and more, say, the popular [Codota](https://plugins.jetbrains.com/plugin/7638-codota-ai-autocomplete-for-java-and-javascript) plugin and the recently emerged [Tabnine](https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion-js-java-python-ts-rust-go-php--more). We now see that the development of tools that improve code quality and are based on artificial intelligence is increasingly being adopted by major services, GitHub is one of them. We believe that using neural networks as part of code analyzers will be more successful and new amazing methods of code analysis for different scenarios await us.
 
