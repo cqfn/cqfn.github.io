@@ -10,7 +10,7 @@ permalink: /jobs.html
 We have a few open positions in our
 team, most of which are in the area of code quality:
 
-  * Java Dev in [Artipie](https://www.artipie.org), 
+  * Java Dev in [Artipie](https://www.artipie.com), 
     [EOLANG](https://github.com/cqfn/eo),
     or
     [Polystat](https://github.com/polystat/polystat).
